@@ -7,7 +7,7 @@
         <div class="row row-cols-1 row-cols-md-2 g-5">
             <div class="col">
                 <a class="text-decoration-none" href="{{ route('usuarios.index') }}">
-                    <div class="card rounded-4">
+                    <div class="card-home card  rounded-4">
                         <img src='assets/images/usuarios.png' class="rounded-3 shadow-lg" alt="usuarios">
                     </div>
                 </a>
@@ -15,21 +15,21 @@
 
             <div class="col">
                 <a class="text-decoration-none" href="{{ route('roles.index') }}">
-                    <div class="card rounded-4">
+                    <div class="card-home card  rounded-4">
                         <img src='assets/images/roles.png' class="rounded-3 shadow-lg" alt="roles">
                     </div>
                 </a>
             </div>
             <div class="col">
                 <a class="text-decoration-none" href="{{ route('categorias.index') }}">
-                    <div class="card rounded-5">
+                    <div class="card-home card  rounded-5">
                         <img src='assets/images/categorias.png' class="rounded-3 shadow-lg" alt="categorias">
                     </div>
                 </a>
             </div>
             <div class="col">
                 <a class="text-decoration-none" href="{{ route('productos.index') }}">
-                    <div class="card rounded-4">
+                    <div class="card-home card rounded-4">
                         <img src='assets/images/productos.png' class="rounded-3 shadow-lg" alt="productos">
                     </div>
                 </a>
