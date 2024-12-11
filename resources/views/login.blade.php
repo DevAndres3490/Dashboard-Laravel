@@ -3,7 +3,7 @@
 
 @section('content')
 <section class="vh-100 bg-primary bg-opacity-75">
-    <div class="container py-5 h-100">
+    <div class="container py-3 h-100">
       <div class="row d-flex justify-content-center align-items-center h-100">
         <div class="col-12 col-md-8 col-lg-6 col-xl-5">
           <div class="card bg-white text-secondary shadow-lg" style="border-radius: 1rem;">
